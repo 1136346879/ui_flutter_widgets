@@ -1,3 +1,5 @@
+该演示仅供浏览学习使用非商业用途
+
 # Flutter UI
 ![android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png](android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
