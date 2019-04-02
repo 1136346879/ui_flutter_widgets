@@ -1,0 +1,36 @@
+{
+    "nav_title_0": "Components",
+    "nav_title_1": "My",
+    "title_component": "Components",
+    "title_my": "My",
+    "widgetType": {
+        "regularLayout": "common layout"
+    },
+    "common": {
+        "changeLanguage": "显示中文",
+        "changeVersion": "checkVersion",
+        "compProgress": "Components Progress"
+    },
+    "common_mine_1" : {
+        "cn": "CN",
+        "en": "EN",
+        "language": "Select Language",
+        "environment": "Select Environment",
+        "compProgress": "Components Progress",
+        "success": "Success To Change "
+    },
+    "mine": {
+        "loadNetwork": "Load Network Document Resources",
+        "loadLocal": "Load Local Document Resources"
+    },
+    "loading": "Loading",
+    "ScrollComponents": "ScrollComponents",
+    "Common": "Common",
+    "Form": "Form",
+    "Regular": "Regular",
+    "Navigator": "Navigator",
+    "BulletBox": "BulletBox",
+    "Animate": "Animate",
+    "Gestures": "Gestures",
+    "Vision": "Vision"
+}
